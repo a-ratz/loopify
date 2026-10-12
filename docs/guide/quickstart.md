@@ -7,20 +7,20 @@ Five minutes from install to a loop that stops for a reason.
 **Claude Code / GitHub Copilot:**
 
 ```text
-/plugin marketplace add AndreRatzenberger/loopify
+/plugin marketplace add a-ratz/loopify
 /plugin install loopify@loopify
 ```
 
 **Codex CLI:**
 
 ```bash
-codex plugin marketplace add AndreRatzenberger/loopify
+codex plugin marketplace add a-ratz/loopify
 codex plugin add loopify@loopify
 ```
 
 Or browse interactively: run `codex`, then `/plugins`, and choose **Add to
 Codex** / **Install plugin**. On any other agent harness, point it at
-`https://github.com/AndreRatzenberger/loopify` and ask it to load the
+`https://github.com/a-ratz/loopify` and ask it to load the
 `loopify` skill bundle.
 
 > Upgrading from 0.1.x? The plugin was renamed. Uninstall

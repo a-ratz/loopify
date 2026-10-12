@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AndreRatzenberger/loopify"><img src="https://img.shields.io/badge/Claude-plugin-24e2ff.svg" alt="Claude plugin"></a>
-  <a href="https://github.com/AndreRatzenberger/loopify"><img src="https://img.shields.io/badge/skills-11-56ffd0.svg" alt="11 skills"></a>
-  <a href="https://github.com/AndreRatzenberger/loopify"><img src="https://img.shields.io/badge/quality-passing-brightgreen.svg" alt="Quality passing"></a>
+  <a href="https://github.com/a-ratz/loopify"><img src="https://img.shields.io/badge/Claude-plugin-24e2ff.svg" alt="Claude plugin"></a>
+  <a href="https://github.com/a-ratz/loopify"><img src="https://img.shields.io/badge/skills-11-56ffd0.svg" alt="11 skills"></a>
+  <a href="https://github.com/a-ratz/loopify"><img src="https://img.shields.io/badge/quality-passing-brightgreen.svg" alt="Quality passing"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
 </p>
 
@@ -41,7 +41,7 @@ Or as Caveman Codex would say:
 Codex CLI:
 
 ```bash
-codex plugin marketplace add AndreRatzenberger/loopify
+codex plugin marketplace add a-ratz/loopify
 codex plugin add loopify@loopify
 ```
 
@@ -61,7 +61,7 @@ the marketplace list again. Shared workspace installs can also appear under
 Claude Code/Github Copilot:
 
 ```text
-/plugin marketplace add AndreRatzenberger/loopify
+/plugin marketplace add a-ratz/loopify
 /plugin install loopify@loopify
 ```
 
@@ -72,7 +72,7 @@ Claude Code/Github Copilot:
 
 Other agent harnesses: Ask your bot.
 
-Give it https://github.com/AndreRatzenberger/loopify and ask it to install or
+Give it https://github.com/a-ratz/loopify and ask it to install or
 load the `loopify` bundle.
 
 **2. Turn a spec into a loop folder**
